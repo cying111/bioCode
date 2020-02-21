@@ -1,0 +1,2 @@
+## to create tar gz the current folder while excluding certain subfolders
+tar --exclude='./subfolder' --exlcude='./subfolder2'  -cvzf fileName.tar.gz   .
